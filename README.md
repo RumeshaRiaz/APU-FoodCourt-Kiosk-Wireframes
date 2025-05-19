@@ -26,10 +26,6 @@ The APU Food Court Kiosk System is designed to streamline food ordering and paym
 
 ## Wireframe Screens
 
-📽️ **Watch the complete wireframe walkthrough video below:**
-
-![Wireframe Walkthrough Video](wireframes/wireframes(APUfoodcourt.mp4)
-
 
 | Screen | Description |
 |--------|-------------|
