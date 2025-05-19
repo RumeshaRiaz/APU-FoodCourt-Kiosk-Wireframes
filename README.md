@@ -80,7 +80,7 @@ To view or edit these wireframes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/APU-FoodCourt-Kiosk.git
+   git clone https://github.com/your-username/APU-FoodCourt-Kiosk-Wireframes.git
    ```
 2. Open the `.bmpr` file in Balsamiq Wireframes
 3. Export updated versions as needed
